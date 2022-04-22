@@ -1,0 +1,15 @@
+h1 {
+
+    text-align: left;
+    font-family: Georgia, serif;
+    font-size: "8";
+    color: white;
+    font-weight: 500;
+  }
+
+#table{
+    text-align: left;
+    font-family: Georgia, serif;
+    color: black;
+    font-weight: 100;
+}
